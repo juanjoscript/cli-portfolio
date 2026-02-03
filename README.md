@@ -8,7 +8,6 @@ A highly interactive, terminal-inspired personal portfolio website built with Re
 
 - 🖥️ **Interactive Terminal Interface**: Fully functional command-line interface simulation.
 - ⚡ **Real-time Typing Animations**: Smooth, realistic output rendering.
-- 🎨 **Theming Support**: Switch between different color schemes (e.g., Matrix, Drifter, Peach).
 - 🧩 **Command History**: Navigate through previous commands using Up/Down arrow keys.
 - 📱 **Responsive Design**: optimized for both desktop and mobile viewing.
 - 📂 **Auto-completion**: Tab completion for available commands.
